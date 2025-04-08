@@ -1,0 +1,3 @@
+C:/Users/Gulsevar/CLionProjects/Lab_6/cmake-build-debug/CMakeFiles/Lab_6.dir
+C:/Users/Gulsevar/CLionProjects/Lab_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gulsevar/CLionProjects/Lab_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
